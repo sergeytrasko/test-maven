@@ -1,0 +1,1 @@
+Test repository for https://github.com/sergeytrasko/maven-dependency-updater
